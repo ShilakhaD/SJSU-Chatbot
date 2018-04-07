@@ -1,8 +1,4 @@
 
-  
-//Client JS Code.. Add this to conversation.js, overwriting the init function with this
-//new init function
-  // Initialize the module
   function init() {
     chatUpdateSetup();
     if(navigator.geolocation){
