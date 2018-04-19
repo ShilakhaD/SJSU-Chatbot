@@ -1,1 +1,1 @@
-This chatbot helps students with basic queries that they face before coming to school or while they are in here. The common questions are inserted manually and for other query, the use of Watson discovery service is made to deal with them. 
+This chatbot helps students with basic queries that they face before coming to school or while they are in here. The common questions are inserted manually and for other query, the use of Watson discovery service is made to deal with them.. 
